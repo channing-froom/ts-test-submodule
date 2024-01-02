@@ -1,4 +1,6 @@
 export default () => {
-    const package1string = 'package2'
-    console.log('package1string');
+    const package2string = 'package2'
+    console.log(package2string);
+
+    return package2string;
 }
