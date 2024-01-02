@@ -1,0 +1,13 @@
+{
+  "name": "@poc-modules",
+  "version": "1.0.0",
+  "description": "typescript modules that are shared between projects using git submodules",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
